@@ -1,6 +1,8 @@
 # 💫 About Me:
 ### 🇮🇩 IT COLLEGE STUDENT 🇮🇩
-💻 Information technology beginner, maybe<br>🚩 CTF Player, Pwner, and a Cybersecurity learner<br>🐧 Linux and Application UI Customization enthusiast<br>🐉 Singles Competitive Pokemon player somehow<br>🥶 Nice to meet you!
+💻 Information technology beginner, maybe<br>🚩 CTF Player, Pwner, and a Cybersecurity learner<br>🐧 Linux and Application UI Customization enthusiast<br>🐉 Singles Competitive Pokemon player somehow<br>
+
+**🥶 Nice to meet you!**
 
 
 ## 🌐 Socials:
