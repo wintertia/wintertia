@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 🇮🇩 IT COLLEGE STUDENT 🇮🇩
-💻 Information technology beginner<br>🚩 CTF and Cybersecurity learner<br>🐧 Linux ricing enthusiast<br><br>🥶 Nice to meet you!
+💻 Information technology beginner<br>🚩 CTF and Cybersecurity learner<br>🐧 Customization enthusiast<br><br>🥶 Nice to meet you!
 
 
 ## 🌐 Socials:
