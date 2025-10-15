@@ -1,4 +1,4 @@
-[![Social banner for wintertia](https://github.com/wintertia/wintertia/raw/master/assets/readme-banner.jpg)](https://wintertia.pages.dev/)
+[![Social banner for wintertia](https://raw.githubusercontent.com/wintertia/wintertia/refs/heads/main/readme-banner.jpg)](https://wintertia.pages.dev/)
 
 <div align="center">
   <h1>Hi!👋</h1>
